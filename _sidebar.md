@@ -1,0 +1,10 @@
+* [Home](/)
+* [Rules](/rules)
+- Features
+    * [Enchantments](/features/enchantments)
+    * [Magic](/features/magic)
+    * [Mobs](/features/mobs)
+    * [Player Shops](/features/player-shops)
+    * [Player Warps](/features/player-warps)
+    * [Quests](/features/quests)
+    * [Skills](/features/skills)
