@@ -38,23 +38,21 @@ Before you start your adventure, make sure to familiarize yourself with our serv
 
 Connect with other players, stay updated on server news, and engage with the ChronoRealms community on our official platforms:
 
-- **Discord:** [Join our Discord server](link_to_discord)
-- **Forums:** [Visit our forums](link_to_forums)
+- **Discord:** [Join our Discord server](https://go.chronorealms.net/discord)
 
 ## Support
 
 If you encounter any issues or have questions, our support team is here to help. Reach out to us through one of the following channels:
 
-- **Support Email:** support@chronorealms.com
-- **Discord Support Channel:** #support on our Discord server
+- **Support Email:** contact@chronorealms.net
+- **Discord Support:** https://go.chronorealms.net/discord
 
 ## Stay Connected
 
 Follow us on social media for the latest updates, announcements, and behind-the-scenes content:
 
-- [Twitter](link_to_twitter)
-- [Instagram](link_to_instagram)
-- [Facebook](link_to_facebook)
+- [Twitter](https://twitter.com/ChronoRealmsMC)
+- More socials soon!
 
 ## Help Contribute to the Wiki
 
